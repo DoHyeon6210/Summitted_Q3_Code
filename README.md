@@ -1,1 +1,1 @@
-# Summitted_Q3_Code
+This Repo contains the first Q3 quest code that operates an account-generating program.
